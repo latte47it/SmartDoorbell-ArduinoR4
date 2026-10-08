@@ -1,0 +1,7 @@
+cd /home/pi/Arduino/comunica_con_esp32_via_bluetooth/
+
+# Crea il file .gitignore per nascondere i dati sensibili
+echo "ble_config.h" > .gitignore
+echo "*.tmp" >> .gitignore
+echo "*.log" >> .gitignore
+echo "*.ino" >> .gitignore

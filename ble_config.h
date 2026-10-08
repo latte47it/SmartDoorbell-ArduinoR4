@@ -1,0 +1,14 @@
+#ifndef BLE_CONFIG_H
+#define BLE_CONFIG_H
+
+#define TARGET_BLE_NAME     "ESP32_Ricevitore"
+#define SERVICE_UUID        "19b10000-e8f2-537e-4f6c-d104768a1214"
+#define CHARACTERISTIC_UUID "19b10001-e8f2-537e-4f6c-d104768a1214"
+
+#define TIME_CHARACTERISTIC_UUID "19b10002-e8f2-537e-4f6c-d104768a1214"
+
+
+#define BUTTON_PIN 2   
+#define SD_CS_PIN  5   
+
+#endif
