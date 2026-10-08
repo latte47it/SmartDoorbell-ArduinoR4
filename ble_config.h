@@ -11,4 +11,6 @@
 #define BUTTON_PIN 2   
 #define SD_CS_PIN  5   
 
+#define RELAY_PIN 7
+
 #endif
