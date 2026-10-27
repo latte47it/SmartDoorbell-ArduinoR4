@@ -8,7 +8,7 @@
 //#define WIFI_PASSWORD "0511557484"
 
 // Telegram
-#define BOT_TOKEN     "8294732970:AAEFGvO_yfT_Xa7SNbXueAZvNTXz0Bh1uF8"
-#define CHAT_ID       "476982085"
+#define TELEGRAM_BOT_TOKEN     "8294732970:AAEFGvO_yfT_Xa7SNbXueAZvNTXz0Bh1uF8"
+#define TELEGRAM_CHAT_ID       "476982085"
 
 #endif
